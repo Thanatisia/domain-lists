@@ -1,0 +1,3 @@
+# pihole domain blacklist (blocklist)
+
+adblock-pro-download.com

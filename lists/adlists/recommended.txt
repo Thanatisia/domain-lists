@@ -1,0 +1,17 @@
+# Recommended adlist sources
+
+# Migrated from /etc/pihole/adlists.list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts		
+
+# firebog - Suspicious
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt		
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts		
+https://v.firebog.net/hosts/static/w3kbl.txt		
+
+# firebog - Advertising Lists
+https://adaway.org/hosts.txt		
+https://v.firebog.net/hosts/AdguardDNS.txt		
+https://v.firebog.net/hosts/Admiral.txt		
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt		
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt		
+https://v.firebog.net/hosts/Easylist.txt

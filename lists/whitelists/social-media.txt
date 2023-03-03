@@ -1,0 +1,10 @@
+# pihole domain whitelist (allow list)
+
+# Youtube searches | discourse pihole
+s.youtube.com
+
+# Youtube watch history | discourse pihole
+video-stats.l.google.com
+
+# Twitter external link shortcut | discourse pihole
+t.co
